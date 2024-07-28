@@ -4,6 +4,7 @@
 # *Projetos:*
 
 ####  [Corinthians na Neo Química Arena](https://github.com/GabrielMartinsz/Data-Science/blob/main/CORINTHIANS-NQA-DATA.ipynb)
+####  [TMDB](https://github.com/GabrielMartinsz/Data-Science/blob/main/CORINTHIANS-NQA-DATA.ipynb)
 
 
 
